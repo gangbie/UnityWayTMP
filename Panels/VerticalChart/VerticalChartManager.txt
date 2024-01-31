@@ -1,0 +1,5 @@
+VerticalChartManager
+
+VCManager Method1
+VCManager Method2
+VCManager Method3
