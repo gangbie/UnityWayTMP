@@ -1,1 +1,5 @@
 NavigationManager
+
+NavigationManagerMethod 1
+NavigationManagerMethod 2
+NavigationManagerMethod 3
