@@ -1,1 +1,5 @@
 ViewPointDummy
+
+Position1
+Position2
+Position3
