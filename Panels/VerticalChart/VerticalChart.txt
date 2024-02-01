@@ -3,3 +3,5 @@ VerticalChart
 Person2 deleted VerticalChart Axis 수정
 Person2 changed VerticalChart HorizontalAxis
 Person2 changed VerticalChart VerticalAxis
+Person2 added VerticalChart Method1
+Person2 added VerticalChart Method2
