@@ -1,3 +1,5 @@
 VerticalChart
 
-VerticalChart Axis 수정
+Person2 deleted VerticalChart Axis 수정
+Person2 changed VerticalChart HorizontalAxis
+Person2 changed VerticalChart VerticalAxis
