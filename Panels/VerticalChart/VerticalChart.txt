@@ -1,1 +1,3 @@
 VerticalChart
+
+VerticalChart Axis 수정
